@@ -23,4 +23,4 @@ pip install -r requirements.txt
 
 Ao executar as células que utilizam `ipywidgets`, pode ocorrer ocasionalmente uma falha na renderização dos componentes interativos (botões).
 
-Caso isso aconteça, recarregue a página do ambiente (Codespaces/VS Code) e execute novamente a célula. Não é necessário reinstalar as dependências ou recriar o ambiente virtual.
+Caso isso aconteça, recarregue a página do ambiente e execute novamente a célula. Não é necessário reinstalar as dependências ou recriar o ambiente virtual.
