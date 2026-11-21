@@ -1,0 +1,6 @@
+ipykernel
+ipywidgets
+numpy
+matplotlib
+scipy
+opencv-python-headless
